@@ -11,3 +11,4 @@ Courlis cendré
 Rossignol
 Foulque	macroule
 Outarde	canepetière
+Echasse	blanche
